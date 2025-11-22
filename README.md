@@ -12,3 +12,5 @@ This repo reppresents labs which were made during the course mentioned above
     `-- lab_4 - Monte Carlo method with comparison to analytical solutions
 ```
 All labs 1-3 have the same aim - to analyse and to make representative samples of customers to increase income
+
+To view solutions, open the .ipynb notebooks; other files are supplementary materials.
