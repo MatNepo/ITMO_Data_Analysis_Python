@@ -9,7 +9,8 @@ This repo reppresents labs which were made during the course mentioned above
     |-- lab_2 - Analyze cities economic and interpret the results
     |-- lab_3
     |    `-- protein_consumption - Analyze protein consumptions
-    `-- lab_4 - Monte Carlo method with comparison to analytical solutions
+    |-- lab_4 - Monte Carlo method with comparison to analytical solutions
+    `-- lab_5 - Data splitting and stratified sampling techniques
 ```
 All labs 1-3 have the same aim - to analyse and to make representative samples of customers to increase income
 
